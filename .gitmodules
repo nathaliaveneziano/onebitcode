@@ -1,0 +1,3 @@
+[submodule "fullstack-javascript"]
+	path = fullstack-javascript
+	url = git@github.com:nathaliaveneziano/fullstack-javascript.git
